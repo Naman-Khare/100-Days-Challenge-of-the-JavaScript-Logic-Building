@@ -15,6 +15,11 @@ I contribute to this repository every day by solving **one or more JavaScript ch
 - Write clean, readable, and maintainable code.
 - Develop consistency through daily coding practice.
 - Prepare for real-world frontend development challenges.
+- Learn how the DOM (Document Object Model) works.
+- Understand how JavaScript controls and updates frontend elements.
+- Make websites more interactive, dynamic, beautiful, and functional.
+- Create animations, transitions, and interactive UI experiences using JavaScript.
+- Develop the skills required to build real-world frontend projects.
 
 ## 📅 My 100-Day Commitment
 
@@ -28,42 +33,6 @@ I contribute to this repository every day by solving **one or more JavaScript ch
 | Repository Updates | Every Day |
 
 **Consistency over perfection. One problem at a time, one day at a time.**
-
-## 📚 Learning Roadmap
-
-Throughout these 100 days, I will practice:
-
-- Variables and Data Types
-- Operators and Type Conversion
-- Conditional Statements
-- Loops (`for`, `while`, nested loops)
-- Mathematical Logic
-- Number-Based Problems
-- Pattern Printing
-- Functions
-- Arrays and Array Methods
-- Objects
-- Strings and String Methods
-- Problem-Solving Challenges
-- DOM Manipulation
-- Practical JavaScript Applications
-
-## 📊 Daily Progress Tracker
-
-| Day | Challenge / Topic | Status |
-|---|---|---|
-| Day 01 | Personal Introduction Card | ✅ Completed |
-| Day 02 | Shopping Bill Calculator | ✅ Completed |
-| Day 03 | Student Marks & Result Checker | ✅ Completed |
-| Day 04 | Traffic Light Controller | ✅ Completed |
-| Day 05 | Number Analyzer | ✅ Completed |
-| Day 06 | Multiplication Table Generator | ✅ Completed |
-| Day 07 | Prime Number Checker | ✅ Completed |
-| Day 08 | Factorial Calculator | ✅ Completed |
-| Day 09 | Star Pattern Generator | ✅ Completed |
-| Day 10–100 | Upcoming Challenges | ⏳ Pending |
-
-*This tracker records my learning exercises. One day may include multiple tasks, and the challenge number does not necessarily represent the calendar day.*
 
 ## 🛠️ Technologies Used
 
