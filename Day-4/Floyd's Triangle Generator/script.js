@@ -1,13 +1,18 @@
 let pattern = document.getElementById("pattern");
 
-let iNum = Number(prompt("Enter the no of rows : "));
-let iPattern = "";
+let num = Number(prompt("Enter number of rows:"));
+let output = "";
+let count = 1;
 
-for(let i = 1 ; i <= iNum ; i++){
-    for(let j = 1 ; j <= i ; j++){
-        iPattern += `${i} `;
+if (!Number.isInteger(num) || num <= 0) {
+    pattern.textContent = "Invalid Input";
+} else {
+    for (let i = 1; i <= num; i++) {
+        for (let j = 1; j <= i; j++) {
+            output += count + " ";
+            count++;
+        }
+        output += "\n";
     }
-    iPattern += "\n"
+    pattern.textContent = output;
 }
-
-pattern.textContent = iPattern;
