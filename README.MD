@@ -1,5 +1,7 @@
 # 🚀 100 Days of JavaScript Logic Building
 
+### Think Logically. Code Consistently. Build Something Amazing. 🚀
+
 Welcome to my **100 Days of JavaScript Logic Building Challenge!**
 
 This repository documents my daily journey of improving JavaScript programming skills, strengthening logical thinking, and becoming better at solving programming problems.
